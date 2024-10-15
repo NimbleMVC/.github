@@ -1,1 +1,1 @@
-NimblePHP to projekt prostego oraz uniwersalnego frameworka, który można rozszerzyć dzięki dodatkowym modułom.
+NimblePHP is a project of a simple and versatile framework that can be extended with additional modules.
